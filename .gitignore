@@ -1,0 +1,4 @@
+*.txt
+auth.log
+*.log
+__pycache_/
