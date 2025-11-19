@@ -1,4 +1,3 @@
-# linux-auth-log-analyzer
 # Linux Auth Log Analyzer
 
 A Python-based security analysis tool that detects failed login attempts by parsing the Linux `/var/log/auth.log` file.  
